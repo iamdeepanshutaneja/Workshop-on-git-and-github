@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-  cout<<"Task Completed"<<endl;
+  int out =1;
+  cout<<"Task Completed :"<<out<<endl;
 
   return 0;
 }
