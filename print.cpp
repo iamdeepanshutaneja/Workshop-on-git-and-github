@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
-  cout<<"Workshop for git and github"<<endl;
+  string out="Workshop for git and github";
+  cout<<out<<endl;
   return 0;
 }
